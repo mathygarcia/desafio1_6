@@ -12,7 +12,7 @@ body {
   }
   
   #Acerca-de-mi i{
-    color: rgb(67, 207, 241);
+    color: rgb(61, 94, 102);
   }
   
   /* Mis trabajos */
@@ -28,7 +28,7 @@ body {
   
   #Contacto form label {
     font-weight: 700;
-    color: #2f3131;
+    color: #0fcc9d;
   }
   
   @media (max-width: 768px) {
